@@ -1,0 +1,21 @@
+/* 通用CSS库 */
+.content {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	font-size: 30upx;
+}
+input{
+	font-size: 30upx;
+}
+/* 自定义导航栏通用 */
+.backiconstyle {
+	font-size: 27px !important;
+	width: 30px;
+	height: 30px;
+	color: #ffffff;
+	/* margin-left: 5px; */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

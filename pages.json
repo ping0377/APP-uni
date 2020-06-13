@@ -1,0 +1,280 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#FF9933",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mp-weixin/login",
+			"style": {
+				"navigationBarTitleText": "微信登录"
+			}
+		},
+		{
+			"path": "pages/app-plus/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/sign-in/sign_in",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/deal/deal",
+			"style": {
+				"navigationBarTitleText": "用户服务协议",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/shop_cart/shop_cart",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/messgae/messsage",
+			"style": {
+				"navigationBarTitleText": "在线客服",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/forget/forget",
+			"style": {
+				"navigationBarTitleText": "找回密码",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/more/more-mer",
+			"style": {
+				"navigationBarTitleText": "更多商户",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/more/more-com",
+			"style": {
+				"navigationBarTitleText": "更多商品",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/more/more-favor",
+			"style": {
+				"navigationBarTitleText": "更多优选",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/commoditytips/commoditytips",
+			"style": {
+				"navigationBarTitleText": "商品详情页",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/personalinformation-and-accountsecurity/pdoras",
+			"style": {
+				"navigationBarTitleText": "账号资料",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/personalinformation-and-accountsecurity/personal_data/personaldata",
+			"style": {
+				"navigationBarTitleText": "个人资料",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/personalinformation-and-accountsecurity/personal_data/personaldataset",
+			"style": {
+				"navigationBarTitleText": "个人资料设置",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/personalinformation-and-accountsecurity/personal_data/shippingaddress",
+			"style": {
+				"navigationBarTitleText": "收货地址",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/personalinformation-and-accountsecurity/personal_data/shippingaddressaddandset",
+			"style": {
+				"navigationBarTitleText": "收货地址管理",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/personalinformation-and-accountsecurity/account_security/accountsecurity",
+			"style": {
+				"navigationBarTitleText": "账号管理",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/personalinformation-and-accountsecurity/account_security/accountsecurity_set",
+			"style": {
+				"navigationBarTitleText": "账号管理设置",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/sharecoupons/sharecoupons",
+			"style": {
+				"navigationBarTitleText": "分享得券"
+			}
+		},
+		{
+			"path": "pages/collection/collectioncheck",
+			"style": {
+				"navigationBarTitleText": "收藏页面",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/members/members",
+			"style": {
+				"navigationBarTitleText": "会员页面"
+			}
+		},
+		{
+			"path": "pages/coupons/coupons",
+			"style": {
+				"navigationBarTitleText": "优惠券页面"
+			}
+		},
+		{
+			"path": "pages/integral/integral_index",
+			"style": {
+				"navigationBarTitleText": "积分平台"
+			}
+		},
+		{
+			"path": "pages/orderprocess/orderprocess",
+			"style": {
+				"navigationBarTitleText": "订单流程",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/orderprocess/orderdetails",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/order-payment/order-prestate",
+			"style": {
+				"navigationBarTitleText": "填写订单"
+			}
+		},
+		{
+			"path": "pages/order-payment/order-success",
+			"style": {
+				"navigationBarTitleText": "支付成功",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/refundsAndsupplements/backfilling_money",
+			"style": {
+				"navigationBarTitleText": "退补款",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/refundsAndsupplements/refund_money",
+			"style": {
+				"navigationBarTitleText": "退款",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/evaluation/evaluation_more",
+			"style": {
+				"navigationBarTitleText": "更多评论",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/merchants/merchants_commodity",
+			"style": {
+				"navigationBarTitleText": "商家主页",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		},
+		{
+			"path": "pages/merchants/merchantshomepage",
+			"style": {
+				"navigationBarTitleText": "商家主页",
+				"navigationBarBackgroundColor": "#FF9933"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarBackgroundColor": "#FF9933",
+		"backgroundColor": "#FFFFFF"
+	},
+	// 设置底部导航栏
+	"tabBar": {
+		"color": "black",
+		"selectedColor": "#E0620D",
+		"borderStyle": "black",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "./static/images/home.png",
+				"selectedIconPath": "./static/images/home2.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/shop_cart/shop_cart",
+				"iconPath": "static/images/shoping1.png",
+				"selectedIconPath": "static/images/shoping2.png",
+				"text": "购物车"
+			},
+			{
+				"pagePath": "pages/messgae/messsage",
+				"iconPath": "static/images/msg1.png",
+				"selectedIconPath": "static/images/msg2.png",
+				"text": "消息"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"iconPath": "static/images/my1.png",
+				"selectedIconPath": "static/images/my2.png",
+				"text": "我的"
+			}
+		]
+	},
+	"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [{
+			"name": "", //模式名称
+			"path": "", //启动页面，必选
+			"query": "" //启动参数，在页面的onLoad函数里面得到
+		}]
+	}
+}
